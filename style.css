@@ -2,9 +2,9 @@ a, img {
  position: absolute; 
 }
 #Alabama        {top: 68%; left: 62%; transform: scale(.5);}
-#California     {top: 68%; left: 62%; transform: scale(.5);}
-#Alaska         {top: 68%; left: 62%; transform: scale(.5);}
-#Colorado       {top: 68%; left: 62%; transform: scale(.5);}
+#California     {top: 30%; left: -3%; transform: scale(1.1)rotate(8deg);}
+#Alaska         {top: 80%; left: 2%;  transform: scale(.7);}
+#Colorado       {top: 42%; left: 25%; transform: scale(.65)rotate(6deg);}
 #Arizona        {top: 68%; left: 62%; transform: scale(.5);}
 #Delaware       {top: 68%; left: 62%; transform: scale(.5);}
 #Conneticut     {top: 68%; left: 62%; transform: scale(.5);}
