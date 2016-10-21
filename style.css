@@ -1,3 +1,27 @@
-img {
+a, img {
  position: absolute; 
 }
+#Alabama        {top: 68%; left: 62%; transform: scale(.5);}
+#California     {top: 68%; left: 62%; transform: scale(.5);}
+#Alaska         {top: 68%; left: 62%; transform: scale(.5);}
+#Colorado       {top: 68%; left: 62%; transform: scale(.5);}
+#Arizona        {top: 68%; left: 62%; transform: scale(.5);}
+#Delaware       {top: 68%; left: 62%; transform: scale(.5);}
+#Conneticut     {top: 68%; left: 62%; transform: scale(.5);}
+#Florida        {top: 68%; left: 62%; transform: scale(.5);}
+#Idaho          {top: 68%; left: 62%; transform: scale(.5);}
+#Indiana        {top: 68%; left: 62%; transform: scale(.5);}
+#Maine          {top: 68%; left: 62%; transform: scale(.5);}
+#Nevada         {top: 68%; left: 62%; transform: scale(.5);}
+#Iowa           {top: 68%; left: 62%; transform: scale(.5);}
+#Washington     {top: 68%; left: 62%; transform: scale(.5);}
+#Massachussets  {top: 68%; left: 62%; transform: scale(.5);}
+#Maryland       {top: 68%; left: 62%; transform: scale(.5);}
+#New-Hampshire  {top: 68%; left: 62%; transform: scale(.5);}
+#Michigan       {top: 68%; left: 62%; transform: scale(.5);}
+#Nebraska       {top: 68%; left: 62%; transform: scale(.5);}
+#Rhode-Island   {top: 68%; left: 62%; transform: scale(.5);}
+#Ohio           {top: 68%; left: 62%; transform: scale(.5);}
+#Tennesse       {top: 68%; left: 62%; transform: scale(.5);}
+#Vermont        {top: 68%; left: 62%; transform: scale(.5);}
+#Texas          {top: 68%; left: 62%; transform: scale(.5);}
