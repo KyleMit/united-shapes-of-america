@@ -8,33 +8,33 @@ a img {
   position: absolute;
   transition: all 1s;
 }
-#Alabama       img {top: 58%; left: 61.5%;   width:11.2%; transform: scaleY(1.0)rotate(-2deg  );}
-#Alaska        img {top: 70%; left:  2%;   width:24%; transform: scaleY(1.0)rotate(0deg  );}
-#Arizona       img {top: 48%; left: 12%;   width:16%; transform: scaleY(1.0)rotate(10deg );}
-#California    img {top: 29%; left: -2%;   width:20%; transform: scaleY(1.2)rotate(8deg  );}
-#Colorado      img {top: 35%; left: 23%;   width:19%; transform: scaleY(0.9)rotate(6deg  );}
-#Conneticut    img {top: 27.7%; left: 87.5%; width:4%; transform: scaleY(1.0)rotate(-11deg);}
-#Delaware      img {top: 37.6%; left: 85%;   width:2.5%; transform: scaleY(1.0)rotate(-10deg);}
-#Florida       img {top: 73%; left: 67%;   width:16%; transform: scaleY(1.0)rotate(-2deg );}
-#Idaho         img {top:  4%; left: 13%;   width:15%; transform: scaleY(1.0)rotate(10deg );}
-#Illinois      img {top: 32%; left: 57%;   width:10%; transform: scaleY(0.9)rotate(0deg  );}
-#Indiana       img {top: 34%; left: 62.5%;   width:8.5%; transform: scaleY(1.0)rotate(-5deg );}
-#Iowa          img {top: 29%; left: 48.5%; width:11%; transform: scaleY(1.0)rotate(0deg  );}
-#Kentucky      img {top: 43%; left: 61%;   width:15%; transform: scaleY(1.0)rotate(-2deg  );}
-#Maine         img {top: 5%; left: 88.2%; width:9%; transform: scaleY(1.0)rotate(-16deg);}
-#Maryland      img {top: 38%; left: 79%;   width:8%; transform: scaleY(1.0)rotate(-7deg );}
-#Massachussets img {top: 24%; left: 87.5%;   width:6.5%; transform: scaleY(0.9)rotate(-10deg);}
-#Michigan      img {top: 14%; left: 62.5%;   width:12%; transform: scaleY(1.2)rotate(0deg  );}
-#Nebraska      img {top: 30%; left: 34%;   width:18%; transform: scaleY(1.0)rotate(5deg  );}
-#Nevada        img {top: 28%; left:  4%;   width:18%; transform: scaleY(1.0)rotate(12deg );}
-#New-Hampshire img {top: 17%; left: 88%; width:4%; transform: scaleY(1.3)rotate(-10deg);}
-#NewJersey     img {top: 32%; left: 84.5%; width:4.3%; transform: scaleY(1.0)rotate(0deg  );}
-#Ohio          img {top: 31%; left: 67%;   width:12%; transform: scaleY(1.0)rotate(-4deg );}
-#Rhode-Island  img {top: 27%; left: 90.5%; width:2%; transform: scaleY(1.0)rotate(-8deg );}
-#Tennesse      img {top: 51%; left: 59%;   width:16.5%; transform: scaleY(0.8)rotate(-2deg  );}
-#Texas         img {top: 58%; left: 30%;   width:25%; transform: scaleY(1.1)rotate(0deg  );}
-#Vermont       img {top: 17.5%; left: 86.2%;   width:4%; transform: scaleY(1.2)rotate(-8deg );}
-#Washington    img {top:  1%; left:  5%;   width:14%; transform: scaleY(1.0)rotate(11deg );}
+#Alabama       img {top: 58%;   left: 61.5%;  width:11.2%; transform: scaleY(1.0)rotate(-2deg );}
+#Alaska        img {top: 70%;   left:  2%;    width:24%;   transform: scaleY(1.0)rotate(0deg  );}
+#Arizona       img {top: 48%;   left: 12%;    width:16%;   transform: scaleY(1.0)rotate(10deg );}
+#California    img {top: 29%;   left: -2%;    width:20%;   transform: scaleY(1.2)rotate(8deg  );}
+#Colorado      img {top: 35%;   left: 23%;    width:19%;   transform: scaleY(0.9)rotate(6deg  );}
+#Conneticut    img {top: 27.7%; left: 87.5%;  width:4%;    transform: scaleY(1.0)rotate(-11deg);}
+#Delaware      img {top: 37.6%; left: 85%;    width:2.5%;  transform: scaleY(1.0)rotate(-10deg);}
+#Florida       img {top: 73%;   left: 67%;    width:16%;   transform: scaleY(1.0)rotate(-2deg );}
+#Idaho         img {top: 4%;    left: 13%;    width:15%;   transform: scaleY(1.0)rotate(10deg );}
+#Illinois      img {top: 32%;   left: 57%;    width:10%;   transform: scaleY(0.9)rotate(0deg  );}
+#Indiana       img {top: 34%;   left: 62.5%;  width:8.5%;  transform: scaleY(1.0)rotate(-5deg );}
+#Iowa          img {top: 29%;   left: 48.5%;  width:11%;   transform: scaleY(1.0)rotate(0deg  );}
+#Kentucky      img {top: 43%;   left: 61%;    width:15%;   transform: scaleY(1.0)rotate(-2deg );}
+#Maine         img {top: 5%;    left: 88.2%;  width:9%;    transform: scaleY(1.0)rotate(-16deg);}
+#Maryland      img {top: 38%;   left: 79%;    width:8%;    transform: scaleY(1.0)rotate(-7deg );}
+#Massachussets img {top: 24%;   left: 87.5%;  width:6.5%;  transform: scaleY(0.9)rotate(-10deg);}
+#Michigan      img {top: 14%;   left: 62.5%;  width:12%;   transform: scaleY(1.2)rotate(0deg  );}
+#Nebraska      img {top: 30%;   left: 34%;    width:18%;   transform: scaleY(1.0)rotate(5deg  );}
+#Nevada        img {top: 28%;   left:  4%;    width:18%;   transform: scaleY(1.0)rotate(12deg );}
+#New-Hampshire img {top: 17%;   left: 88%;    width:4%;    transform: scaleY(1.3)rotate(-10deg);}
+#NewJersey     img {top: 32%;   left: 84.5%;  width:4.3%;  transform: scaleY(1.0)rotate(0deg  );}
+#Ohio          img {top: 31%;   left: 67%;    width:12%;   transform: scaleY(1.0)rotate(-4deg );}
+#Rhode-Island  img {top: 27%;   left: 90.5%;  width:2%;    transform: scaleY(1.0)rotate(-8deg );}
+#Tennesse      img {top: 51%;   left: 59%;    width:16.5%; transform: scaleY(0.8)rotate(-2deg );}
+#Texas         img {top: 58%;   left: 30%;    width:25%;   transform: scaleY(1.1)rotate(0deg  );}
+#Vermont       img {top: 17.5%; left: 86.2%;  width:4%;    transform: scaleY(1.2)rotate(-8deg );}
+#Washington    img {top: 1%;    left:  5%;    width:14%;   transform: scaleY(1.0)rotate(11deg );}
 
 #container a img:hover {
   transform: rotate(0deg)scale(3);
