@@ -37,6 +37,6 @@ a img {
 #Washington    img {top:  1%; left:  5%;   width:14%; transform: scaleY(1.0)rotate(11deg );}
 
 #container a img:hover {
-  width:20%;
-  transform: scale(1,1)rotate(0deg);
+  transform: rotate(0deg)scale(3);
+  z-index: 1;
 }
