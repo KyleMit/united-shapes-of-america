@@ -1,6 +1,9 @@
 .container {
   position: relative;
 }
+img.background {
+  width: 100%;  
+}
 a img {
   position: absolute;
   transition: all 2s;
