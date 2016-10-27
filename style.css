@@ -6,8 +6,11 @@ img.background {
 }
 a img {
   position: absolute;
-  transition: all 1s;
   z-index: 1;
+  -webkit-transition: all 1s;  
+     -moz-transition: all 1s;
+       -o-transition: all 1s;
+          transition: all 1s;
 }
 a {
     text-decoration: none;
