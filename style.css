@@ -14,16 +14,29 @@ a img {
 }
 a {
     text-decoration: none;
-    color: #000;
-    font-family: segoe UI;
 }
-a .info {
-    display: none;
+.info {
     top: 0;
     position: absolute;
     text-align: center;
     width: 100%;
+    background: white;
+    color: black;
+    font-family: "Segoe UI" , Verdana, Helvetica, Sans-Serif;
 }
+a .info {
+  display: none;
+}
+
+#container a img:hover {
+  transform: rotate(0deg)scale(3);
+  z-index: 999;
+}
+#container a img:hover + .info {
+  display:inline-block;
+}
+
+
 #Alabama       img {top: 58%;   left: 61.5%;  width:11.2%; transform: scaleY(1.0)rotate(-2deg );}
 #Alaska        img {top: 70%;   left:  2%;    width:24%;   transform: scaleY(1.0)rotate(0deg  );}
 #Arizona       img {top: 48%;   left: 12%;    width:16%;   transform: scaleY(1.0)rotate(10deg );}
@@ -51,11 +64,3 @@ a .info {
 #Texas         img {top: 58%;   left: 30%;    width:25%;   transform: scaleY(1.1)rotate(0deg  );}
 #Vermont       img {top: 17.5%; left: 86.2%;  width:4%;    transform: scaleY(1.2)rotate(-8deg );}
 #Washington    img {top: 1%;    left:  5%;    width:14%;   transform: scaleY(1.0)rotate(11deg );}
-
-#container a img:hover {
-  transform: rotate(0deg)scale(3);
-  z-index: 999;
-}
-#container a img:hover + .info {
-  display:inline-block;
-}
