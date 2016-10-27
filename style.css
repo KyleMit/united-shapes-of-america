@@ -7,6 +7,7 @@ img.background {
 a img {
   position: absolute;
   transition: all 1s;
+  z-index: 1;
 }
 a {
     text-decoration: none;
@@ -50,7 +51,7 @@ a .info {
 
 #container a img:hover {
   transform: rotate(0deg)scale(3);
-  z-index: 1;
+  z-index: 999;
 }
 #container a img:hover + .info {
   display:inline-block;
