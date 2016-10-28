@@ -23,6 +23,10 @@ a {
     background: white;
     color: black;
     font-family: "Segoe UI" , Verdana, Helvetica, Sans-Serif;
+    font-size: 3em;
+}
+.info b {
+  font-size: 1.25em;
 }
 a .info {
   display: none;
