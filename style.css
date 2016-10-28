@@ -23,8 +23,8 @@ a {
     background: white;
     color: black;
     font-family: "Segoe UI" , Verdana, Helvetica, Sans-Serif;
-    font-size: 2em; /*vh fallback */
-    font-size: 2vh;
+    font-size: 2em; /*vw fallback */
+    font-size: 2vw;
 }
 .info b {
   font-size: 1.25em;
