@@ -15,7 +15,7 @@ a img {
        -o-transition: all 1s;
           transition: all 1s;
   transition-duration: 1s
-  max-width: 50%;
+  filter: grayscale(10%);
 }
 a {
     text-decoration: none;
@@ -51,10 +51,19 @@ h3 {
 #container a img:hover {
   transform: rotate(0deg)scale(3);
   z-index: 999;
-  transition-duration: 1.5s
+  transition-duration: 1.5s;
+  filter: grayscale(0%);
+}
+:target img {
+  filter: grayscale(0%)brightness(1.08);
+}
+#container a:target .info {
+  display:inline-block;
+  z-index: 1;
 }
 #container a img:hover + .info {
   display:inline-block;
+  z-index: 2; /*hover takes priority */
 }
 
 
