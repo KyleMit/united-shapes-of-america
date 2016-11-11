@@ -93,6 +93,7 @@ h3 {
 #Rhode-Island  img {top: 27.7%; left: 90.9%;  width:1.2%;  transform: scaleY(1.0)rotate(-10deg );}
 #Tennesse      img {top: 53.2%; left: 60.5%;  width:15.3%; transform: scaleY(0.75)rotate(-4deg );}
 #Texas         img {top: 58.5%; left: 31%;    width:24%;   transform: scaleY(1.05)rotate(4deg  );}
+#Utah          img {top: 33.9%; left: 18.5%;  width:24%;   transform: scaleY(1.15)rotate(12deg  );}
 #Vermont       img {top: 18.3%; left: 87%;    width:2.75%; transform: scaleY(1.3)rotate(-10deg );}
 #Washington    img {top: 3.1%;  left: 6.2%;   width:11%;   transform: scaleY(0.9)rotate(11deg );}
 
@@ -126,7 +127,8 @@ a#NewJersey     img:hover {transform-origin:60% 50%; transform: scale(4);  }
 a#Ohio          img:hover {transform-origin:50% 50%; transform: scale(2.8);  }
 a#Rhode-Island  img:hover {transform-origin:65% 50%; transform: scale(10);  }
 a#Tennesse      img:hover {transform-origin:60% 50%; transform: scale(2.4);  }
-a#Texas         img:hover {transform-origin:50% 50%; transform: scale(1.8);}
+a#Texas         img:hover {transform-origin:50% 50%; transform: scale(2.2);}
+a#Utah          img:hover {transform-origin:50% 50%; transform: scale(1.8);}
 a#Vermont       img:hover {transform-origin:60% 40%; transform: scale(5);  }
 a#Washington    img:hover {transform-origin:35% 15%; transform: scale(2.5);}
 
