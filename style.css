@@ -14,8 +14,8 @@ a img {
      -moz-transition: all 1s;
        -o-transition: all 1s;
           transition: all 1s;
-  transition-duration: 1s
-  filter: grayscale(10%);
+  transition-duration: 1s;
+  /* filter: grayscale(10%); */
 }
 a {
     text-decoration: none;
@@ -52,10 +52,10 @@ h3 {
   transform: rotate(0deg)scale(3);
   z-index: 999;
   transition-duration: 1.5s;
-  filter: grayscale(0%);
+  /* filter: grayscale(0%); */
 }
 :target img {
-  filter: grayscale(0%)brightness(1.08);
+  filter: brightness(1.08);
 }
 #container a:target .info {
   display:inline-block;
@@ -75,6 +75,7 @@ h3 {
 #Conneticut    img {top: 28.3%; left: 88.0%;  width:3%;    transform: scaleY(1.0)rotate(-11deg);}
 #Delaware      img {top: 38.1%; left: 85.63%; width:1.25%; transform: scaleY(1.0)rotate(-15deg);}
 #Florida       img {top: 74%;   left: 67%;    width:14.7%; transform: scaleY(1.0)rotate(-2deg );}
+#Georgia       img {top: 60%;   left: 70.2%;  width:8.6%;  transform: scaleY(1.0)rotate(-5deg );}
 #Idaho         img {top: 6.7%;  left: 16.5%;  width:9.8%;  transform: scaleY(1.05)rotate(10deg );}
 #Illinois      img {top: 31%;   left: 58.1%;  width:6.8%;  transform: scaleY(0.82)rotate(0deg  );}
 #Indiana       img {top: 35.6%; left: 64%;    width:5.8%;  transform: scaleY(1.0)rotate(-5deg );}
@@ -110,6 +111,7 @@ a#Colorado      img:hover {transform-origin:50% 50%; transform: scale(2.5);}
 a#Conneticut    img:hover {transform-origin:60% 40%; transform: scale(5);  }
 a#Delaware      img:hover {transform-origin:50% 50%; transform: scale(6);  }
 a#Florida       img:hover {transform-origin:80% 60%; transform: scale(2.5);}
+a#Georgia       img:hover {transform-origin:80% 60%; transform: scale(2.5);}
 a#Idaho         img:hover {transform-origin:25% 25%; transform: scale(2.2);}
 a#Illinois      img:hover {transform-origin:50% 50%; transform: scale(1.7);}
 a#Indiana       img:hover {transform-origin:50% 50%; transform: scale(2.5);}
