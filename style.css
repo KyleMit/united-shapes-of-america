@@ -20,6 +20,22 @@ a img {
 a {
     text-decoration: none;
 }
+#labels .label {
+  font-variant: small-caps;
+  font-size: 1vw;
+  z-index: 100;
+  position: absolute;
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Chrome/Safari/Opera */
+     -khtml-user-select: none; /* Konqueror */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  not supported by any browser */
+  cursor: default;
+  pointer-events: none;
+}
+
 .info {
     top: 0;
     position: absolute;
@@ -135,3 +151,55 @@ a#Utah          img:hover {transform-origin:50% 50%; transform: scale(1.8);}
 a#Vermont       img:hover {transform-origin:60% 40%; transform: scale(5);  }
 a#Washington    img:hover {transform-origin:35% 15%; transform: scale(2.5);}
 a#Wyoming       img:hover {transform-origin:35% 15%; transform: scale(2.5);}
+
+/* State Labels */
+#labels .AL {top: 66%;left: 66%;}
+#labels .AK {top: 82%;left: 11%;}
+#labels .AZ {top: 60%;left: 19%;}
+#labels .AR {top: 60%;left: 55%;}
+#labels .CA {top: 49%;left: 6%;}
+#labels .CO {top: 46%;left: 31%;}
+#labels .CT {top: 29%;left: 88%;}
+#labels .DE {top: 41%;left: 86%;}
+#labels .FL {top: 84%;left: 78%;}
+#labels .GA {top: 67%;left: 73%;}
+#labels .HI {top: 90%;left: 27%;}
+#labels .ID {top: 26%;left: 19%;}
+#labels .IL {top: 42%;left: 60%;}
+#labels .IN {top: 42%;left: 66%;}
+#labels .IA {top: 36%;left: 53%;}
+#labels .KS {top: 48%;left: 44%;}
+#labels .KY {top: 51%;left: 67%;}
+#labels .LA {top: 77%;left: 56%;}
+#labels .ME {top: 15%;left: 91%;}
+#labels .MD {top: 39%;left: 81%;}
+#labels .MA {top: 26%;left: 88%;}
+#labels .MI {top: 30%;left: 67%;}
+#labels .MN {top: 21%;left: 50%;}
+#labels .MS {top: 68%;left: 60%;}
+#labels .MO {top: 48%;left: 54%;}
+#labels .MT {top: 16%;left: 27%;}
+#labels .NE {top: 37%;left: 42%;}
+#labels .NV {top: 38%;left: 12%;}
+#labels .NH {top: 22%;left: 89.5%;}
+#labels .NJ {top: 37%;left: 87%;}
+#labels .NM {top: 62%;left: 29%;}
+#labels .NY {top: 27%;left: 81%;}
+#labels .NC {top: 55%;left: 77%;}
+#labels .ND {top: 16%;left: 40%;}
+#labels .OH {top: 39%;left: 72%;}
+#labels .OK {top: 59%;left: 46%;}
+#labels .OR {top: 21%;left: 8%;}
+#labels .PA {top: 35%;left: 78%;}
+#labels .RI {top: 27.5%;left: 91%;}
+#labels .SC {top: 60%;left: 77%;}
+#labels .SD {top: 27%;left: 40%;}
+#labels .TN {top: 57%;left: 65%;}
+#labels .TX {top: 74%;left: 43%;}
+#labels .UT {top: 42%;left: 22%;}
+#labels .VT {top: 19%;left: 87.5%;}
+#labels .VA {top: 49%;left: 79%;}
+#labels .WA {top: 9%;left: 10%;}
+#labels .WV {top: 44%;left: 75.3%;}
+#labels .WI {top: 25%;left: 58%;}
+#labels .WY {top: 31%;left: 29%;}
