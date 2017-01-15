@@ -1,6 +1,29 @@
 body {
   font-family: "Segoe UI" , Verdana, Helvetica, Sans-Serif;
 }
+/* vw fallback - needs choke points */
+/* Tiny  */
+#labels .label { font-size: .4em; }
+.info { font-size: .8em; }
+
+/* Small  */
+@media (min-width: 768px) { 
+  #labels .label { font-size: .7em; }
+  .info { font-size: 1em; }
+}
+
+/* Medium */
+@media (min-width: 992px) {
+  #labels .label { font-size: .9em; }
+  .info { font-size: 1.5em; }
+}
+
+/* Large  */
+@media (min-width: 1200px) {
+  #labels .label { font-size: 1.1em; }
+  .info { font-size: 2em; }
+}
+
 #container {
   position: relative;
 }
@@ -43,7 +66,6 @@ a {
     width: 100%;
     background: white;
     color: black;
-    font-size: 2em; /*vw fallback */
     font-size: 2vw;
 }
 .info b {
