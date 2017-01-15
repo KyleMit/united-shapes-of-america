@@ -226,3 +226,28 @@ a#Wyoming       img:hover {transform-origin:35% 15%; transform: scale(2.5);}
 #labels .WV {top: 44%;left: 75.3%;}
 #labels .WI {top: 25%;left: 58%;}
 #labels .WY {top: 31%;left: 29%;}
+
+#show-labels { display: none; }
+#show-labels         + label:before { content: "Hide "; }
+#show-labels:checked + label:before { content: "Show "; }
+#show-labels:checked + label + #labels  { display: none; }
+
+#show-labels + label {
+    background-color: d9ddff;
+    box-shadow: inset 0 2px 3px rgba(255,255,255,0.2), inset 0 -2px 3px rgba(0,0,0,0.2);
+    border-radius: 4px;
+    font-size: 16px;
+    display: inline-block;
+    padding: 2px 5px;
+    cursor: pointer;
+    bottom: 0;
+    position: absolute;
+    right: 0;
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Chrome/Safari/Opera */
+     -khtml-user-select: none; /* Konqueror */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  not supported by any browser */
+}
