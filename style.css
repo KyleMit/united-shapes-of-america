@@ -63,7 +63,8 @@ a {
     top: 0;
     position: absolute;
     text-align: center;
-    width: 100%;
+    width: 50%;
+    left: 25;
     background: white;
     color: black;
     font-size: 2vw;
