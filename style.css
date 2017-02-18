@@ -130,9 +130,12 @@ h3 {
 #New-Hampshire img {top: 17.8%; left: 88.8%;  width:2.3%;  transform: scaleY(1.3)rotate(-13deg);}
 #New-Mexico    img {top: 54%;   left: 25.4%;  width: 10.8%;transform: scaleY(1.1)rotate(10deg );}
 #NewJersey     img {top: 32.1%; left: 85.8%;  width:2.85%; transform: scaleY(1.0)rotate(-11deg );}
+#NorthCarolina img {top: 51.8%; left: 71.5%;  width:16%;   transform: scaleY(.88)rotate(-9.5deg);}
 #NorthDakota   img {top: 9.5%;  left: 37.5%;  width:11.8%; transform: scaleY(.9)rotate(5deg   );}
 #Ohio          img {top: 33.5%; left: 69.5%;  width:7.1%;  transform: scaleY(1.0)rotate(-4deg );}
+#Oklahoma      img {top: 54%;   left: 37.5%;  width:15.5%; transform: scaleY(0.95)rotate(4deg );}
 #Rhode-Island  img {top: 27.7%; left: 90.9%;  width:1.2%;  transform: scaleY(1.0)rotate(-10deg);}
+#SouthCarolina img {top: 57.8%; left: 74.3%;  width:9%;    transform: scaleY(.95)rotate(-8deg  );}
 #SouthDakota   img {top: 21.3%; left: 37%;    width:12.5%; transform: scaleY(.95)rotate(5deg  );}
 #Tennesse      img {top: 53.2%; left: 60.5%;  width:15.3%; transform: scaleY(0.75)rotate(-4deg);}
 #Texas         img {top: 58.5%; left: 31%;    width:24%;   transform: scaleY(1.05)rotate(4deg );}
@@ -170,9 +173,12 @@ a#Nevada        img:hover {transform-origin:50% 50%; transform: scale(1.7);}
 a#New-Hampshire img:hover {transform-origin:50% 50%; transform: scale(5);  }
 a#New-Mexico    img:hover {transform-origin:50% 50%; transform: scale(2);  }
 a#NewJersey     img:hover {transform-origin:60% 50%; transform: scale(4);  }
+a#NorthCarolina img:hover {transform-origin:60% 50%; transform: scale(2.0);}
 a#NorthDakota   img:hover {transform-origin:50% 15%; transform: scale(2.0);}
 a#Ohio          img:hover {transform-origin:50% 50%; transform: scale(2.8);}
+a#Oklahoma      img:hover {transform-origin:50% 50%; transform: scale(2.4);}
 a#Rhode-Island  img:hover {transform-origin:65% 50%; transform: scale(10); }
+a#SouthCarolina img:hover {transform-origin:60% 50%; transform: scale(2.0);}
 a#SouthDakota   img:hover {transform-origin:50% 40%; transform: scale(2.0);}
 a#Tennesse      img:hover {transform-origin:60% 50%; transform: scale(2.4);}
 a#Texas         img:hover {transform-origin:50% 50%; transform: scale(2.2);}
