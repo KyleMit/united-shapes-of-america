@@ -134,6 +134,7 @@ h3 {
 #NorthDakota   img {top: 9.5%;  left: 37.5%;  width:11.8%; transform: scaleY(.9)rotate(5deg   );}
 #Ohio          img {top: 33.5%; left: 69.5%;  width:7.1%;  transform: scaleY(1.0)rotate(-4deg );}
 #Oklahoma      img {top: 54%;   left: 37.5%;  width:15.5%; transform: scaleY(0.95)rotate(4deg );}
+#Pennsylvania  img {top: 30.9%; left: 76.8%;  width:9.6%;  transform: scaleY(1.1)rotate(-8deg );}
 #Rhode-Island  img {top: 27.7%; left: 90.9%;  width:1.2%;  transform: scaleY(1.0)rotate(-10deg);}
 #SouthCarolina img {top: 57.8%; left: 74.3%;  width:9%;    transform: scaleY(.95)rotate(-8deg  );}
 #SouthDakota   img {top: 21.3%; left: 37%;    width:12.5%; transform: scaleY(.95)rotate(5deg  );}
@@ -177,6 +178,7 @@ a#NorthCarolina img:hover {transform-origin:60% 50%; transform: scale(2.0);}
 a#NorthDakota   img:hover {transform-origin:50% 15%; transform: scale(2.0);}
 a#Ohio          img:hover {transform-origin:50% 50%; transform: scale(2.8);}
 a#Oklahoma      img:hover {transform-origin:50% 50%; transform: scale(2.4);}
+a#Pennsylvania  img:hover {transform-origin:50% 50%; transform: scale(2.4);}
 a#Rhode-Island  img:hover {transform-origin:65% 50%; transform: scale(10); }
 a#SouthCarolina img:hover {transform-origin:60% 50%; transform: scale(2.0);}
 a#SouthDakota   img:hover {transform-origin:50% 40%; transform: scale(2.0);}
