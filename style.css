@@ -179,6 +179,7 @@ h3 {
 #Massachussets img {top: 24.3%; left: 87.9%;  width:6.2%;  transform: scaleY(0.85)rotate(-12deg);}
 #Michigan      img {top: 16.5%; left: 64.5%;  width:8%;    transform: scaleY(1.2)rotate(0deg  );}
 #Minnesota     img {top: 9.5%;  left: 48.5%;  width:9.5%;  transform: scaleY(0.95)rotate(2deg );}  
+#Mississippi   img {top: 62%;   left: 58.5%;  width:7.4%;  transform: scaleY(1.04)rotate(-11deg );}
 #Missouri      img {top: 41.5%; left: 50.5%;  width:12%;   transform: scaleY(1)rotate(0deg );}  
 #Montana       img {top: 6.0%;  left: 18.9%;  width:18.3%; transform: scaleY(0.85)rotate(9deg );}  
 #Nebraska      img {top: 32.2%; left: 36.5%;  width:14%;   transform: scaleY(.95)rotate(5deg  );}
@@ -233,6 +234,7 @@ a#Maryland      img:hover {transform-origin:50% 50%; transform: scale(3);  }
 a#Massachussets img:hover {transform-origin:70% 40%; transform: scale(4);  }
 a#Michigan      img:hover {transform-origin:50% 40%; transform: scale(2.0);}
 a#Minnesota     img:hover {transform-origin:50% 15%; transform: scale(2.0);}
+a#Mississippi   img:hover {transform-origin:40% 40%; transform: scale(2);  }
 a#Missouri      img:hover {transform-origin:50% 50%; transform: scale(1.7);}
 a#Montana       img:hover {transform-origin:50% 15%; transform: scale(1.7);}
 a#Nebraska      img:hover {transform-origin:50% 50%; transform: scale(2.5);}
