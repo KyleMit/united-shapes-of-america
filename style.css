@@ -167,13 +167,14 @@ h3 {
 #Delaware      img {top: 38.1%; left: 85.63%; width:1.25%; transform: scaleY(1.0)rotate(-15deg);}
 #Florida       img {top: 74%;   left: 67%;    width:14.7%; transform: scaleY(1.0)rotate(-2deg );}
 #Georgia       img {top: 60%;   left: 70.2%;  width:8.6%;  transform: scaleY(1.0)rotate(-5deg );}
+#Hawaii        img {top: 79.7%; left: 27.9%;  width:5.8%;  transform: scaleY(1.05)rotate(110deg )scaleX(-1);}
 #Idaho         img {top: 6.7%;  left: 16.5%;  width:9.8%;  transform: scaleY(1.05)rotate(10deg );}
 #Illinois      img {top: 31%;   left: 58.1%;  width:6.8%;  transform: scaleY(0.82)rotate(0deg  );}
 #Indiana       img {top: 35.6%; left: 64%;    width:5.8%;  transform: scaleY(1.0)rotate(-5deg );}
 #Iowa          img {top: 30.5%; left: 49.2%;  width:10%;   transform: scaleY(1.0)rotate(0deg  );}
 #Kansas        img {top: 43.3%; left: 39.5%;  width:13%;   transform: scaleY(.96)rotate(4deg  );}
 #Kentucky      img {top: 46.1%; left: 62.1%;  width:12.7%; transform: scaleY(1.0)rotate(-2deg );}
-#Louisiana     img {top: 70.6%; left: 54%;    width:9.4%;   transform: scaleY(1.15)rotate(1deg );}
+#Louisiana     img {top: 70.6%; left: 54%;    width:9.4%;  transform: scaleY(1.15)rotate(1deg );}
 #Maine         img {top: 6.5%;  left: 90.1%;  width:6%;    transform: scaleY(1.0)rotate(-16deg);}
 #Maryland      img {top: 39.7%; left: 79.3%;  width:7.8%;  transform: scaleY(1.1)rotate(-8deg );}
 #Massachussets img {top: 24.3%; left: 87.9%;  width:6.2%;  transform: scaleY(0.85)rotate(-12deg);}
@@ -222,6 +223,7 @@ a#Conneticut    img:hover {transform-origin:60% 40%; transform: scale(5);  }
 a#Delaware      img:hover {transform-origin:50% 50%; transform: scale(6);  }
 a#Florida       img:hover {transform-origin:80% 80%; transform: scale(2.2);}
 a#Georgia       img:hover {transform-origin:80% 60%; transform: scale(2.5);}
+a#Hawaii        img:hover {transform-origin:30% 50%; transform: scale(2.2)rotate(110deg )scaleX(-1);}
 a#Idaho         img:hover {transform-origin:25% 25%; transform: scale(2.2);}
 a#Illinois      img:hover {transform-origin:50% 50%; transform: scale(1.7);}
 a#Indiana       img:hover {transform-origin:50% 50%; transform: scale(2.5);}
